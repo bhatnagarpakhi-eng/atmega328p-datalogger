@@ -7149,8 +7149,8 @@
 		)
 	)
 	(gr_rect
-		(start 190.5 112.38)
-		(end 196 117.5)
+		(start 190.75 108.94)
+		(end 196.25 114.06)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -7385,7 +7385,7 @@
 		)
 	)
 	(gr_text "    ICSP\nMISO | VCC\nSCK  | MOSI\nRESET| GND "
-		(at 190.9 116.9 0)
+		(at 191.15 113.46 0)
 		(layer "F.SilkS")
 		(uuid "6748c330-5e8b-4e24-bb48-6694b395810b")
 		(effects
