@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.kicad_sch merge=union
+*.kicad_pcb merge=union
+*.kicad_pro merge=union
